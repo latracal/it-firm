@@ -3,7 +3,7 @@ Contributors: latracal
 Tested up to: 6.0
 Requires at least: 5.9
 Requires PHP: 7.4
-Version: 1.0.0
+Version: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Copyright: latracal
@@ -25,6 +25,9 @@ IT Firm is licensed under the GNU General Public License v2 or later.
 == Changelog ==
 
 All changes will be noted here
+
+== v1.0.1 ==
+Removed lorem ipsum links from front-page.html.
 
 == v1.0.0 ==
 Initial Release.
