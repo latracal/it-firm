@@ -39,11 +39,11 @@ return array(
     <!-- /wp:cover --></div>
     <!-- /wp:column -->
     
-    <!-- wp:column {"verticalAlignment":"center"} -->
-    <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"level":4} -->
+    <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"15px","right":"15px","bottom":"15px","left":"15px"}}}} -->
+    <div class="wp-block-column is-vertically-aligned-center" style="padding-top:15px;padding-right:15px;padding-bottom:15px;padding-left:15px"><!-- wp:heading {"level":4} -->
     <h4>Where imagination meets innovation</h4>
     <!-- /wp:heading -->
-    
+
     <!-- wp:paragraph {"fontSize":"extra-small"} -->
     <p class="has-extra-small-font-size">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices ipsum nibh, in malesuada purus fermentum vel. Sed facilisis et tortor nec eleifend. </p>
     <!-- /wp:paragraph -->
@@ -51,7 +51,7 @@ return array(
     <!-- wp:paragraph {"fontSize":"extra-small"} -->
     <p class="has-extra-small-font-size">Nam luctus lacus ante, id faucibus mauris fermentum vitae. Phasellus pharetra nisl eget odio blandit semper. Fusce ligula turpis, imperdiet vitae semper id, </p>
     <!-- /wp:paragraph -->
-    
+
     <!-- wp:list {"fontSize":"extra-small"} -->
     <ul class="has-extra-small-font-size"><li>Commodo eu felis. Nullam massa risus, finibus et velit eget, volutpat faucibus felis. </li><li>Nulla mi nibh, congue aliquet arcu at, elementum iaculis justo.</li></ul>
     <!-- /wp:list --></div>

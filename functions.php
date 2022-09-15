@@ -15,7 +15,7 @@ if(!function_exists("grigora_it_firm_setup")){
                 ),
                 array(
                     "font" => "Hanuman",
-                    "target" => "body"
+                    "target" => "h*"
                 ),
             ));
             update_option('grigora_blocks_it_firm_typography_set', true);
