@@ -1,6 +1,6 @@
 === it-firm (child of grigora-blocks) ===
 Contributors: latracal
-Tested up to: 6.0.2
+Tested up to: 6.0
 Requires at least: 5.9
 Requires PHP: 7.4
 Version: 1.0.0
@@ -11,6 +11,7 @@ Copyright: latracal
 IT Firm. Create easy to setup website for your IT Firm. Choose among the existing 29 patterns to customize your website as per your need. Moreover, has 6 color styles to choose from.
 
 Github - https://github.com/latracal/it-firm
+Export: git archive --format zip --output it-firm.zip <branch-name>
 
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -43,6 +44,7 @@ angry-annoyed-applicant-bad-boss-business-1652045-pxhere.com_.webp              
 app-application-business-business-strategy-coffee-collaboration-1434201-pxhere.com_.webp       (https://pxhere.com/en/photo/1434201)
 man-person-photography-portrait-color-tie-870953-pxhere-1.webp                                 (https://pxhere.com/en/photo/870953)
 girl-young-business-businesswoman-office-stands-1456591-pxhere.webp                            (https://pxhere.com/en/photo/1456591)
+person-fence-plant-girl-woman-hair-1038677-pxhere                                              (https://pxhere.com/en/photo/1038677)
 
 === Icons ===
 Bootstrap Icons. MIT License (https://github.com/twbs/icons/blob/main/LICENSE.md)
