@@ -22,7 +22,7 @@ return array(
     <!-- /wp:spacer -->
     
     <!-- wp:heading {"textAlign":"center","level":6,"style":{"typography":{"fontStyle":"normal","fontWeight":"100"}}} -->
-    <h6 class="has-text-align-center" style="font-style:normal;font-weight:100">Why should You choose Us.</h6>
+    <h6 class="has-text-align-center" style="font-style:normal;font-weight:100">Why should You Choose Us</h6>
     <!-- /wp:heading -->
     
     <!-- wp:heading {"textAlign":"center","level":4,"className":"margin-top-0"} -->
@@ -47,7 +47,7 @@ return array(
     <!-- wp:paragraph {"fontSize":"extra-small"} -->
     <p class="has-extra-small-font-size">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices ipsum nibh, in malesuada purus fermentum vel. Sed facilisis et tortor nec eleifend. </p>
     <!-- /wp:paragraph -->
-    
+
     <!-- wp:paragraph {"fontSize":"extra-small"} -->
     <p class="has-extra-small-font-size">Nam luctus lacus ante, id faucibus mauris fermentum vitae. Phasellus pharetra nisl eget odio blandit semper. Fusce ligula turpis, imperdiet vitae semper id, </p>
     <!-- /wp:paragraph -->
