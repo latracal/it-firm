@@ -32,12 +32,12 @@ return array(
         <div class="wp-block-columns"><!-- wp:column -->
         <div class="wp-block-column"><!-- wp:cover {"url":"'. esc_url( get_theme_file_uri( "assets/images/american-beard-business-business-people-businessman-caucasian-1454767-pxhere.com_.webp" ) ) .'","id":13,"dimRatio":20,"overlayColor":"background","minHeight":310,"minHeightUnit":"px","contentPosition":"bottom right","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
         <div class="wp-block-cover has-custom-content-position is-position-bottom-right" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;min-height:310px"><span aria-hidden="true" class="wp-block-cover__background has-background-background-color has-background-dim-20 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-13" alt="" src="'. esc_url( get_theme_file_uri( "assets/images/american-beard-business-business-people-businessman-caucasian-1454767-pxhere.com_.webp" ) ) .'" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"backgroundColor":"button"} -->
-        <div class="wp-block-group has-button-background-color has-background"><!-- wp:heading {"level":6} -->
-        <h6>Edward Hogue</h6>
+        <div class="wp-block-group has-button-background-color has-background"><!-- wp:heading {"level":6,"textColor":"background"} -->
+        <h6 class="has-background-color has-text-color">Edward Hogue</h6>
         <!-- /wp:heading -->
         
-        <!-- wp:paragraph -->
-        <p>Designation</p>
+        <!-- wp:paragraph {"textColor":"background"} -->
+        <p class="has-background-color has-text-color">Designation</p>
         <!-- /wp:paragraph --></div>
         <!-- /wp:group --></div></div>
         <!-- /wp:cover --></div>

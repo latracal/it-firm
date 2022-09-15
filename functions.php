@@ -1,5 +1,6 @@
 <?php
 
+// Set Default font for the child theme.
 if(!function_exists("grigora_it_firm_setup")){
     function grigora_it_firm_setup() {
         // load translations
@@ -23,6 +24,7 @@ if(!function_exists("grigora_it_firm_setup")){
     }
 }
 
+// Change Excerpt Length
 if(!function_exists("grigora_it_firm_excerpt_length")){
     function grigora_it_firm_excerpt_length( $length ) {
         return 15;

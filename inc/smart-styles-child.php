@@ -2,6 +2,7 @@
 
 add_filter('render_block', 'it_firm_load_block_styles_css', 10, 2);
 
+// Add smart style inside child theme
 if(!function_exists("it_firm_load_block_styles_css")){
     function it_firm_load_block_styles_css( $block_content, $block ){
         global $used_styles;
