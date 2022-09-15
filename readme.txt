@@ -1,4 +1,4 @@
-=== grigora-blocks ===
+=== it-firm (child of grigora-blocks) ===
 Contributors: latracal
 Tested up to: 6.0.2
 Requires at least: 5.9
