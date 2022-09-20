@@ -1,12 +1,12 @@
 === it-firm (child of grigora-blocks) ===
-Contributors: latracal
-Tested up to: 6.0
+Contributors:      latracal
+Tested up to:      6.0
 Requires at least: 5.9
-Requires PHP: 7.4
-Version: 1.0.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Copyright: latracal
+Requires PHP:      7.4
+Version:           1.0.2
+License:           GPLv2 or later
+License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+Copyright:         latracal
 
 IT Firm. Create easy to setup website for your IT Firm. Choose among the existing 29 patterns to customize your website as per your need. Moreover, has 6 color styles to choose from.
 
@@ -25,6 +25,11 @@ IT Firm is licensed under the GNU General Public License v2 or later.
 == Changelog ==
 
 All changes will be noted here
+
+== v1.0.2 ==
+Removed sidebar area template registry.
+Added a page.html template.
+Removed the horizontal padding or 25px on single.html and page.html
 
 == v1.0.1 ==
 Removed lorem ipsum links from front-page.html.
