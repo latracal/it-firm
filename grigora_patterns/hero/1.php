@@ -40,7 +40,7 @@ return array(
         
         <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
         <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"transparent","className":"is-style-grigora-button-diagonal-swipe"} -->
-        <div class="wp-block-button is-style-grigora-button-diagonal-swipe"><a class="wp-block-button__link has-transparent-background-color has-background">Lets Begin</a></div>
+        <div class="wp-block-button is-style-grigora-button-diagonal-swipe"><a class="wp-block-button__link has-transparent-background-color has-background" href="#">Lets Begin</a></div>
         <!-- /wp:button --></div>
         <!-- /wp:buttons --></div>
         <!-- /wp:column -->

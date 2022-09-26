@@ -27,6 +27,9 @@ if(!function_exists("grigora_it_firm_setup")){
 // Change Excerpt Length
 if(!function_exists("grigora_it_firm_excerpt_length")){
     function grigora_it_firm_excerpt_length( $length ) {
+        if ( is_admin() ){
+            return $length;
+        }
         return 15;
     }
 }

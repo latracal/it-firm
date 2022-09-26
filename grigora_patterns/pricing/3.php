@@ -61,7 +61,7 @@ return array(
         
         <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
         <div class="wp-block-buttons"><!-- wp:button -->
-        <div class="wp-block-button"><a class="wp-block-button__link">Buy Now</a></div>
+        <div class="wp-block-button"><a class="wp-block-button__link" href="#">Buy Now</a></div>
         <!-- /wp:button --></div>
         <!-- /wp:buttons --></div>
         <!-- /wp:group --></div>
@@ -111,7 +111,7 @@ return array(
         
         <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
         <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"background","textColor":"button"} -->
-        <div class="wp-block-button"><a class="wp-block-button__link has-button-color has-background-background-color has-text-color has-background">Buy Now</a></div>
+        <div class="wp-block-button"><a class="wp-block-button__link has-button-color has-background-background-color has-text-color has-background" href="#">Buy Now</a></div>
         <!-- /wp:button --></div>
         <!-- /wp:buttons -->
         
@@ -161,7 +161,7 @@ return array(
         
         <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
         <div class="wp-block-buttons"><!-- wp:button -->
-        <div class="wp-block-button"><a class="wp-block-button__link">Buy Now</a></div>
+        <div class="wp-block-button"><a class="wp-block-button__link" href="#">Buy Now</a></div>
         <!-- /wp:button --></div>
         <!-- /wp:buttons --></div>
         <!-- /wp:group --></div>

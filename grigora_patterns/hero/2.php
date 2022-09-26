@@ -35,7 +35,7 @@ return array(
         
         <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
         <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"transparent","textColor":"button","className":"is-style-grigora-flat-outline"} -->
-        <div class="wp-block-button is-style-grigora-flat-outline"><a class="wp-block-button__link has-button-color has-transparent-background-color has-text-color has-background">Lets Begin</a></div>
+        <div class="wp-block-button is-style-grigora-flat-outline"><a class="wp-block-button__link has-button-color has-transparent-background-color has-text-color has-background" href="#">Lets Begin</a></div>
         <!-- /wp:button --></div>
         <!-- /wp:buttons -->
         

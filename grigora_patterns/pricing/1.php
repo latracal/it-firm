@@ -70,7 +70,7 @@ return array(
         
         <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
         <div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":"62px"},"spacing":{"padding":{"top":"10px","bottom":"10px","left":"40px","right":"40px"}}}} -->
-        <div class="wp-block-button"><a class="wp-block-button__link" style="border-radius:62px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px">Buy Now</a></div>
+        <div class="wp-block-button"><a class="wp-block-button__link" style="border-radius:62px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px" href="#">Buy Now</a></div>
         <!-- /wp:button --></div>
         <!-- /wp:buttons --></div>
         <!-- /wp:group --></div>
@@ -126,7 +126,7 @@ return array(
         
         <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
         <div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":"62px"},"spacing":{"padding":{"top":"10px","bottom":"10px","left":"40px","right":"40px"}}}} -->
-        <div class="wp-block-button"><a class="wp-block-button__link" style="border-radius:62px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px">Buy Now</a></div>
+        <div class="wp-block-button"><a class="wp-block-button__link" style="border-radius:62px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px" href="#">Buy Now</a></div>
         <!-- /wp:button --></div>
         <!-- /wp:buttons --></div>
         <!-- /wp:group --></div>
@@ -182,7 +182,7 @@ return array(
         
         <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
         <div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":"62px"},"spacing":{"padding":{"top":"10px","bottom":"10px","left":"40px","right":"40px"}}}} -->
-        <div class="wp-block-button"><a class="wp-block-button__link" style="border-radius:62px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px">Buy Now</a></div>
+        <div class="wp-block-button"><a class="wp-block-button__link" style="border-radius:62px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px" href="#">Buy Now</a></div>
         <!-- /wp:button --></div>
         <!-- /wp:buttons --></div>
         <!-- /wp:group --></div>

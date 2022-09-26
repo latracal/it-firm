@@ -61,7 +61,7 @@ return array(
         
         <!-- wp:buttons -->
         <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"button","width":100} -->
-        <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-button-background-color has-background">Buy Now</a></div>
+        <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-button-background-color has-background" href="#">Buy Now</a></div>
         <!-- /wp:button --></div>
         <!-- /wp:buttons --></div>
         <!-- /wp:group --></div>
@@ -103,7 +103,7 @@ return array(
         
         <!-- wp:buttons -->
         <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"button","width":100} -->
-        <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-button-background-color has-background">Buy Now</a></div>
+        <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-button-background-color has-background" href="#">Buy Now</a></div>
         <!-- /wp:button --></div>
         <!-- /wp:buttons --></div>
         <!-- /wp:group --></div>
@@ -149,7 +149,7 @@ return array(
         
         <!-- wp:buttons -->
         <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"button","width":100} -->
-        <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-button-background-color has-background">Buy Now</a></div>
+        <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-button-background-color has-background" href="#">Buy Now</a></div>
         <!-- /wp:button --></div>
         <!-- /wp:buttons --></div>
         <!-- /wp:group --></div>
@@ -191,7 +191,7 @@ return array(
         
         <!-- wp:buttons -->
         <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"button","width":100} -->
-        <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-button-background-color has-background">Buy Now</a></div>
+        <div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-button-background-color has-background" href="#">Buy Now</a></div>
         <!-- /wp:button --></div>
         <!-- /wp:buttons --></div>
         <!-- /wp:group --></div>

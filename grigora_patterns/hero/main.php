@@ -34,10 +34,11 @@ return array(
     <!-- /wp:paragraph -->
     
     <!-- wp:buttons -->
-    <div class="wp-block-buttons"><!-- wp:button {"textColor":"background","className":"is-style-grigora-button-effect-1"} -->
-    <div class="wp-block-button is-style-grigora-button-effect-1"><a class="wp-block-button__link has-background-color has-text-color">Lets Begin</a></div>
-    <!-- /wp:button --></div>
-    <!-- /wp:buttons -->
+    <div class="wp-block-buttons">
+    <!-- wp:button {"textColor":"background","className":"is-style-grigora-button-effect-1"} -->
+    <div class="wp-block-button is-style-grigora-button-effect-1"><a class="wp-block-button__link has-background-color has-text-color" href="#">Lets Begin</a></div>
+    <!-- /wp:button -->
+    </div><!-- /wp:buttons -->
     
     <!-- wp:spacer {"height":"130px"} -->
     <div style="height:130px" aria-hidden="true" class="wp-block-spacer"></div>
