@@ -54,7 +54,7 @@ return array(
         <!-- /wp:paragraph -->
         
         <!-- wp:paragraph {"align":"left","className":"margin-top-0","fontSize":"extra-small"} -->
-        <p class="has-text-align-left margin-top-0 has-extra-small-font-size">demo@itsolutions.com</p>
+        <p class="has-text-align-left margin-top-0 has-extra-small-font-size">demo@example.com</p>
         <!-- /wp:paragraph --></div>
         <!-- /wp:group --></div>
         <!-- /wp:column -->
@@ -84,7 +84,7 @@ return array(
         <!-- /wp:paragraph -->
         
         <!-- wp:paragraph {"align":"left","className":"margin-top-0","fontSize":"extra-small"} -->
-        <p class="has-text-align-left margin-top-0 has-extra-small-font-size">demo@itsolutions.com</p>
+        <p class="has-text-align-left margin-top-0 has-extra-small-font-size">demo@example.com</p>
         <!-- /wp:paragraph --></div>
         <!-- /wp:group --></div>
         <!-- /wp:column -->
@@ -114,7 +114,7 @@ return array(
         <!-- /wp:paragraph -->
         
         <!-- wp:paragraph {"align":"left","className":"margin-top-0","fontSize":"extra-small"} -->
-        <p class="has-text-align-left margin-top-0 has-extra-small-font-size">demo@itsolutions.com</p>
+        <p class="has-text-align-left margin-top-0 has-extra-small-font-size">demo@example.com</p>
         <!-- /wp:paragraph --></div>
         <!-- /wp:group --></div>
         <!-- /wp:column --></div>

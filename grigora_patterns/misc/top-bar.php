@@ -23,7 +23,7 @@ return array(
         <!-- /wp:paragraph -->
         
         <!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem"}}} -->
-        <p style="font-size:0.9rem"><img class="wp-image-106" style="width: 15px;" src="'. esc_url( get_theme_file_uri( "assets/images/email_envelope_letter_mail_newsletter_icon-2.webp" ) ) .'" alt=""> demo@itsolutions.com</p>
+        <p style="font-size:0.9rem"><img class="wp-image-106" style="width: 15px;" src="'. esc_url( get_theme_file_uri( "assets/images/email_envelope_letter_mail_newsletter_icon-2.webp" ) ) .'" alt=""> demo@example.com</p>
         <!-- /wp:paragraph --></div>
         <!-- /wp:group -->
         
